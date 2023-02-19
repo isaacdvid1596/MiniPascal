@@ -232,6 +232,18 @@ public class MiniPascalGrammarBaseListener implements MiniPascalGrammarListener 
 	 *
 	 * <p>The default implementation does nothing.</p>
 	 */
+	@Override public void enterRead_statement(MiniPascalGrammarParser.Read_statementContext ctx) { }
+	/**
+	 * {@inheritDoc}
+	 *
+	 * <p>The default implementation does nothing.</p>
+	 */
+	@Override public void exitRead_statement(MiniPascalGrammarParser.Read_statementContext ctx) { }
+	/**
+	 * {@inheritDoc}
+	 *
+	 * <p>The default implementation does nothing.</p>
+	 */
 	@Override public void enterExpression(MiniPascalGrammarParser.ExpressionContext ctx) { }
 	/**
 	 * {@inheritDoc}
