@@ -4,6 +4,7 @@ var
   nums: array[1..5] of integer;
   i: integer;
   sum: integer;
+  hola: string;
 begin
   nums[1] := 2;
   nums[2] := 4;
