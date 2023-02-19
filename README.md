@@ -3,9 +3,9 @@
 - Alumnos: Alejandro Davila, Julio David y Oscar Sanchez.
 
 ## Contenido
-- Archivos generados para ANTLR4 con la gramatica desarollada ya compilada.
+- Archivos generados para ANTLR4 con la gramática desarollada ya compilada.
 
-## Ejecucion de Gramatica
+## Ejecución de Gramática
 - Se debe ubicar en la carpeta raiz del proyecto y posteriormente hacer uso de los siguientes comandos:
 
 - Identificar el archivo que contiene las reglas gramaticales:
